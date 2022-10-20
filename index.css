@@ -1,0 +1,59 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  gap: 40px;
+
+  width: 450px;
+  margin: 20px auto;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+}
+
+h2 {
+  margin: 0;
+}
+
+.product-details {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+button {
+  font-size: 25px;
+  cursor: pointer;
+  padding: 12px;
+}
+
+.quantityBtn {
+  padding: 5px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.quantityBtn {
+  width: 75px;
+}
+
+.img-container {
+  width: auto;
+}
+
+img {
+  width: 178px;
+  margin: 0;
+  display: block;
+}
+
+.quantity-display {
+  font-size: 32px;
+}
