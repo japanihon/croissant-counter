@@ -1,2 +1,2 @@
-# croissant-counter
-Contador de Croissants
+# 🥐 Counter
+
